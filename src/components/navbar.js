@@ -22,7 +22,7 @@ export default function Navbar({children}) {
     </Navbar.Collapse>
   </Container>
 </Navbar>
-{children}
+    {children}
 
 </div>
     )
